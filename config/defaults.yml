@@ -54,10 +54,10 @@ defaults:
       post_counts: false
       comment_counts: false
   settings:
-    pod_name: 'diaspora*'
+    pod_name: 'PatientHome'
     enable_registrations: true
     autofollow_on_join: true
-    autofollow_on_join_user: 'diasporahq@joindiaspora.com'
+    autofollow_on_join_user: 'patienthome@gmail.com'
     invitations:
       open: true
       count: 25

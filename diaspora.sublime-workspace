@@ -1,0 +1,934 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ima",
+				"image_path"
+			],
+			[
+				"f",
+				"fun	function …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/diaspora.yml",
+			"settings":
+			{
+				"buffer_size": 17545,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/edit.html.haml",
+			"settings":
+			{
+				"buffer_size": 8508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "redis-integration1.conf",
+			"settings":
+			{
+				"buffer_size": 20853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 4522,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"gitcom",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"git",
+				"Git: Custom Command"
+			],
+			[
+				"git:comm",
+				"Git: Amend Commit"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add Current File"
+			],
+			[
+				"goto",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"gitl",
+				"Git: Log All"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls",
+			"cd ..",
+			"choe",
+			"echo",
+			"dd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/liufei/ROR/diaspora",
+		"/Users/liufei/ROR/diaspora/app",
+		"/Users/liufei/ROR/diaspora/app/assets",
+		"/Users/liufei/ROR/diaspora/app/views",
+		"/Users/liufei/ROR/diaspora/app/views/users",
+		"/Users/liufei/ROR/diaspora/config",
+		"/Users/liufei/ROR/diaspora/tmp",
+		"/Users/liufei/ROR/diaspora/tmp/cache"
+	],
+	"file_history":
+	[
+		"/Users/liufei/ROR/diaspora/script/server",
+		"/Users/liufei/ROR/diaspora/config/application.rb",
+		"/Users/liufei/Downloads/metronic.bootstrap/media/css/font-awesome.css",
+		"/Users/liufei/ROR/patient/config/routes.rb",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/glyphicons.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/halflings.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/inbox.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/jquery.fancybox.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/jquery.fileupload-ui.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/jquery.gritter.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/lock.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/login-soft.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/coming-soon.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/default.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/dropzone.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/DT_bootstrap.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/font-awesome.css",
+		"/Users/liufei/ROR/patient/app/views/home/index.html.slim",
+		"/Users/liufei/ROR/patient/app/views/layouts/application.html.erb",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/font-awesome.min.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/colorpicker.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/multi-select-metro.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/profile.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/search.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/select2_metro.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/style-metro.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/style.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/uniform.default.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/bootstrap-tree.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/chosen.css",
+		"/Users/liufei/ROR/patient/app/assets/stylesheets/bootstrap.min.css",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/07110a3d50cf2e40114c540e262c8cbb",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/10328cb5f1c915eef4e2466708a9410a",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/12e81ec3aacb924e7ea211c3440a3b02",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/13fe41fee1fe35b49d145bcc06610705",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/1450c8f5d2b6e201d72fa175586bbd97",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/18cc98678b24c7adf3eba9cd8b0287cb",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/195b0c0ece1db236806e2ec2310f1479",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/1b77abb6bee52fa8d68ee7e81077ff20",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/21ffda50610d962dad20e7c69d7adb2e",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/24c28286dda1b6064aaa9ab51dd1abe3",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/25c7d30ca5ab02f253a706278d371884",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/29967ed4c0b78f022c40f98dd6ebf155",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/2d373d1a39cf301201ddd44fe1803925",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/357970feca3ac29060c1e3861e2c0953",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/374d7489826341abf7436c148604943d",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/378ae42fa633d06f58f9e76b1e0424a4",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/3b670c9fa3a25f962fb8152bcfe0b342",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/3bc444b62afe81fc6f16b4ac8a63d04c",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/3e773e8984a02eb242ac92342b3653ae",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/3fd9412156bcbb7ffb2768b082b02759",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/4666c1fbc8fb1de0fe46806406437ba3",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/48ccee950cbfd3708d4bc1a24c493e94",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/496f8473d1d5109599b865189c6216d0",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/49a885d3e06fe33a5c64f07b6313daeb",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/4d6e5dfee80a447fd4640be5755bf528",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/4ea33e825e6e38bd22dccab488a0255b",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/542c740f339d1e8da9da64cc19145929",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/551fa768f4d5776fab14a3b270c4d064",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/555352f27fae8d78fc8d68b2572bdf6b",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/5730afc0d151dd1e10e88b7b3e6adbc1",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/598b5c2796e2bea02c34549c8f4eaccd",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/615bc5069da99c4d28be81e434712369",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/63b0a666b5b5c3be731db8ff04101b53",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/69b24dd2e7d902197e380e7e344499e1",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/69df01e143382e29baa23c1019faf7e7",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/69e11d7728a975a59328de50035fe25e",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/6b9e24a8aad25948823e1a93c8be731e",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/6fc04d22332177846c74154b1290e7b7",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/70960ba711c6f243724b7d45e957babb",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/7be9086c960bb4384c9d23a52e489f29",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/7e59baa785fa48ff0162057de8ba459d",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/81d0912c28477eb9ebb00dcd932e980a",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/8aa3b46743d2c9c5d6215437c6bd3c7b",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/8d191acdf6ab107ba6640a2f3875e25a",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/8f8936f164170e095c5ca2d0c2ae6127",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/91bce51034fd28879a4f1e2e5fe8b733",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/91dfb1e3477659b982feeacb705e8073",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/96309f3ac34f506fa13086d650f4b84f",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/9804045c261d4f5c5b600168c61d4d53",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/980ae27b5f97d789e31bc162d43daa0d",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/9a2e5d6775b915e7f30978b49f5cd968",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/9d5762dcc2c3d20642515b0beae12cda",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/9fd02d20091838d6411df2d23a5364d5",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/a1138831085f56b75a3e2971d7f23a22",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/a1ee77c4a4b62568050d2641e21479ff",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/a493b7c5f13d63f805d413da51bec4da",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/a7df8ca3082cfbc47da1a28828d6d460",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/b10f14c289e7045b038f0a83705b5d86",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/b25715e194522b4b08210d8674c77af8",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/b7c49fa679c11c461a541ad3ebce2015",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/bb5f5fd155b9cce672c002356628f8db",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/bc6cc4be7e41dfbca27c21a0ae713a92",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/c5b9e4974820336c04e71ad6ccb2e44b",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/d21ae483be0bdef3991970e8d92690d7",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/d2c4be968c68f00a4c94f786806e803d",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/dc3464fc167af65f2f04092dab31329a",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/dea5e7f68ddcb811c2e05acab86b1e7d",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/e1a6e264d94d004659f38f4cab9b982c",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/e5d244badd7f6f4cec985c7f8fd135ca",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/e635bdf927aa3a59d50587ec0873b6e4",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/f054c0a5481f4403df8254948893d85d",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/f33ca5bf0b64f35f0b84a7bdd8d95740",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/f4222fc14bf4f2e60bf4eee6dcd006b3",
+		"/Users/liufei/ROR/patient/tmp/cache/assets/development/sprockets/fcbb6518dccf64e18504d99965f81a32",
+		"/Library/WebServer/Documents/weixinpro/weiwincms/Lib/Action/Wap/WeixinAction.class.php",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/common/css/1143/cate.css",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/Card_index_newsalon.html",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/Index_1143.html",
+		"/Library/WebServer/Documents/weixinpro/index.php",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/common/css/dc/index_new.css",
+		"/Library/WebServer/Documents/weixinpro/cms/editor/ckeditor/plugins/image/dialogs/image_new.js",
+		"/Library/WebServer/Documents/weixinpro/weiwincms/Lib/ORG/index.Tpl.php",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/Index_1102_index_cvb5u.html",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/Photo_plist_newsalon_2.html",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/Photo_plist_newsalon_1.html",
+		"/Library/WebServer/Documents/weixinpro/weiwincms/Lib/Action/Wap/CardAction.class.php",
+		"/Library/WebServer/Documents/weixinpro/tpl/static/tpl/186/css/cate.css",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/Index_301.html",
+		"/Library/WebServer/Documents/weixinpro/weiwincms/Lib/Action/Wap/PhotoAction.class.php",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/Index_104_index.html",
+		"/Library/WebServer/Documents/weixinpro/tpl/Wap/default/Index_300.html",
+		"/Library/WebServer/Documents/weixinpro/tpl/Home/weiwincms/Public_header.html",
+		"/Library/WebServer/Documents/weixinpro/phpinfo.php",
+		"/Library/WebServer/Documents/weixinpro/weiwindata/logs/Cache/Wap/104809d5ee4c7735f0d9e1ec737c63c2.php",
+		"/Library/WebServer/Documents/weixinpro/weiwindata/logs/Logs/14_07_01.log",
+		"/Library/WebServer/Documents/weixinpro/cms/templates/history/1_20131007191944.html",
+		"/Library/WebServer/Documents/weixinpro/asyncbox/jQuery.v1.4.2.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"redis",
+			"environment",
+			"assets.serve",
+			"asset",
+			"rails_environment",
+			"ssl",
+			"require_ssl",
+			"https",
+			"ssl",
+			"redis",
+			"server",
+			"certificate authorities",
+			"certificate",
+			"../image/",
+			"css",
+			"雪山",
+			"<script type=\"text/javascript\">\n            var myScroll;\n\n            function loaded() {\n                myScroll = new iScroll('wrapper', {\n                    snap: true,\n                    momentum: false,\n                    hScrollbar: false,\n                    onScrollEnd: function () {\n                        document.querySelector('#indicator > li.active').className = '';\n                        document.querySelector('#indicator > li:nth-child(' + (this.currPageX+1) + ')').className = 'active';\n                    }\n                });\n \n            }\n\n            document.addEventListener('DOMContentLoaded', loaded, false);\n        </script>",
+			"            </",
+			"1280",
+			"swiper-slide swiper-slide-visible swiper-slide-active",
+			" swiper-slide-visible",
+			"swiper-slide-visible",
+			"\n        ",
+			"        \n",
+			"memer",
+			"user",
+			", "
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assets/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/liufei/ROR/diaspora"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/diaspora.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2649,
+								2649
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7847.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/users/edit.html.haml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "redis-integration1.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15477,
+								15477
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4693.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config/database.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index_1143",
+				"tpl/Wap/default/Index_1143.html"
+			],
+			[
+				"index_new",
+				"tpl/Wap/default/Card_index_newsalon.html"
+			],
+			[
+				"photo",
+				"weiwincms/Lib/Action/Wap/PhotoAction.class.php"
+			],
+			[
+				"104",
+				"tpl/Wap/default/Index_104_index.html"
+			],
+			[
+				"index.tpl.php",
+				"weiwincms/Lib/ORG/index.Tpl.php"
+			],
+			[
+				"300",
+				"tpl/Wap/default/Index_300.html"
+			],
+			[
+				"d",
+				"weiwindata/conf/db.php"
+			],
+			[
+				"lib/org/index.tpl.php",
+				"weiwincms/Lib/ORG/index.Tpl.php"
+			],
+			[
+				"tmpl",
+				"weiwincms/Lib/Action/User/TmplsAction.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 359.0,
+		"selected_items":
+		[
+		],
+		"width": 384.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
